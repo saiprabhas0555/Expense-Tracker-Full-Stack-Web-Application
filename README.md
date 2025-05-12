@@ -33,7 +33,4 @@ This is a full-stack web application designed to help users track and manage the
   - Daily and monthly graphs
   - Top spending categories
 
----
-
-## 📂 Project Structure
 
